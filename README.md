@@ -1,4 +1,5 @@
 # Advertisment-dataset-CIKM2020
+Link to download dataset: https://mega.nz/folder/X8AVUADL#MicodbojCW4lsMsfmD7jnQ
 
 # English readme
 Data structure:
