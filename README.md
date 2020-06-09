@@ -2,6 +2,11 @@
 Link to download dataset: https://mega.nz/folder/X8AVUADL#MicodbojCW4lsMsfmD7jnQ
 
 # English readme
+In order to download data after clicking on the link, it is necessary:
+* or press Download ZIP, in this case the tutorial and test sample file will be downloaded
+* or right-click on the desired file and select download
+
+
 Data structure:
 
 ```
@@ -48,6 +53,11 @@ The following text processing was applied:
     ```
 
 # Russian readme
+Для того, чтобы скачать данные после перехода по ссылке, необходимо:
+* или нажать Скачать ZIP, в таком случае будут скачены файл обучающей и тестовой выборки
+* или нажать правой клавишей мыши на нужном файле и выбрать пункт скачать
+
+
 Структура данных:
 
 ```
